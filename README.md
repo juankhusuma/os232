@@ -1,4 +1,3 @@
 # os232
 ## juankhusuma OS 2023 GitHub Page
-[LOG](TXT/mylog.txt)
-[LINKS](LINKS)
+[my logs](https://juankhusuma.github.io/os232/TXT/mylog.txt)

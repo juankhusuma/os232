@@ -11,3 +11,7 @@ ZCZC W01 100 L02 09/05 class
 ZCZC W01 120 L11 Week 01 assignment
 ZCZC W01 60 L11 Reading assignment
 ZCZC W01 15 L04 LINKS page
+ZCZC W01 100 L02 09/07 class
+ZCZC W01 120 L11 Reading assignment
+ZCZC W01 30 L05 Quiz and device preparation
+ZCZC W01 120 L06 Learn ssh, vim, and GSGS about OS
