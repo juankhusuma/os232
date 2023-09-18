@@ -19,3 +19,5 @@ ZCZC W02 100 L02 12/09 class
 ZCZC W02 120 L06 Learn encryption, GSGS about bash scripts
 ZCZC W02 120 L10 Reading assignment
 ZCZC W02 100 L02 14/09 class
+ZCZC W02 30 L05 Quiz and device preparation
+ZCZC W02 60 L05 Material review for quiz
