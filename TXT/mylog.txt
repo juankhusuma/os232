@@ -21,3 +21,9 @@ ZCZC W02 120 L10 Reading assignment
 ZCZC W02 100 L02 14/09 class
 ZCZC W02 30 L05 Quiz and device preparation
 ZCZC W02 60 L05 Material review for quiz
+ZCZC W03 100 L02 19/09 class
+ZCZC W03 120 L06 learning about linux filesystem
+ZCZC W03 120 L13 doing WEEK03 assignment
+ZCZC W03 20 L25 learning c and make for popquiz
+ZCZC W03 20 L07 doing and checking out demo
+ZCZC W03 120 L05 quiz preparation
