@@ -19,3 +19,9 @@ A good explanation about RSA and asymetric key encryption.
 
 6. [Security vs Privacy vs Protection](https://www.youtube.com/watch?v=Abta0j826Bk)
 A good and concise video about the differences between privacy, security, and protection
+
+7. [Linux Filesystem in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4&pp=ygURbGludXggZmlsZSBzeXN0ZW0%3D)
+A good and easy to understand overview of the linux filesystem
+
+8. [Filesystem](https://www.youtube.com/watch?v=A3G-3hp88mo&pp=ygURbGludXggZmlsZSBzeXN0ZW0%3D)
+A more detailed look on linux filesystem
