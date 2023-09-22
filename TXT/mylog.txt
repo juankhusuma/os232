@@ -27,3 +27,4 @@ ZCZC W03 120 L13 doing WEEK03 assignment
 ZCZC W03 20 L25 learning c and make for popquiz
 ZCZC W03 20 L07 doing and checking out demo
 ZCZC W03 120 L05 quiz preparation
+ZCZC W03 120 L13 reading assignment
