@@ -25,3 +25,6 @@ A good and easy to understand overview of the linux filesystem
 
 8. [Filesystem](https://www.youtube.com/watch?v=A3G-3hp88mo&pp=ygURbGludXggZmlsZSBzeXN0ZW0%3D)
 A more detailed look on linux filesystem
+
+9. [TLPI](https://man7.org/tlpi/)
+A good source of information for the linux programming interface
