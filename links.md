@@ -28,3 +28,9 @@ A more detailed look on linux filesystem
 
 9. [TLPI](https://man7.org/tlpi/)
 A good source of information for the linux programming interface
+
+10. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+An article explaining what is a virtual memory in a operating system
+
+11. [Paging](https://www.geeksforgeeks.org/paging-in-operating-system/)
+An article explaining what is paging in operating system

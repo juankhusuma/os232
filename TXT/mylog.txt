@@ -32,3 +32,8 @@ ZCZC W04 100 L02 26/09 class
 ZCZC W04 120 L06 reading and GSGS about TLPI
 ZCZC W04 120 L14 doing Week 4 assignment
 ZCZC W04 120 L14 exploring all of the demos
+ZCZC W05 100 L02 03/10 class
+ZCZC W05 120 L15 doing Week 5 assignments
+ZCZC W05 120 L15 doing and exploring all of the demos
+ZCZC W05 120 L15 reading assignment
+ZCZC W05 120 L06 reading and GSGS
