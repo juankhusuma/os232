@@ -37,3 +37,7 @@ ZCZC W05 120 L15 doing Week 5 assignments
 ZCZC W05 120 L15 doing and exploring all of the demos
 ZCZC W05 120 L15 reading assignment
 ZCZC W05 120 L06 reading and GSGS
+ZCZC W06 120 L16 reading assignment
+ZCZC W06 120 L16 doing week 06 assignments
+ZCZC W06 120 L21 learning about c and memory allocation and processes
+ZCZC W06 120 L02 31/10 class

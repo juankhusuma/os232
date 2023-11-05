@@ -34,3 +34,9 @@ An article explaining what is a virtual memory in a operating system
 
 11. [Paging](https://www.geeksforgeeks.org/paging-in-operating-system/)
 An article explaining what is paging in operating system
+
+12. [Fork](https://www.geeksforgeeks.org/fork-system-call/)
+A full introduction to fork
+
+13. [Malloc](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+C malloc and dynamic memory allocation
