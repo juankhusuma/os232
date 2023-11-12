@@ -40,3 +40,9 @@ A full introduction to fork
 
 13. [Malloc](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
 C malloc and dynamic memory allocation
+
+14. [Deadlock](https://en.wikipedia.org/wiki/Deadlock)
+explanation about deadlock
+
+15. [Mutex](https://www.geeksforgeeks.org/mutex-lock-for-linux-thread-synchronization/)
+Mutex and linux synchronization

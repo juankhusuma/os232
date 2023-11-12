@@ -41,3 +41,7 @@ ZCZC W06 120 L16 reading assignment
 ZCZC W06 120 L16 doing week 06 assignments
 ZCZC W06 120 L21 learning about c and memory allocation and processes
 ZCZC W06 120 L02 31/10 class
+ZCZC W07 120 L21 learning about synchronization and deadlick
+ZCZC W07 120 L06 reading and GSGS
+ZCZC W07 120 L17 assignment
+ZCZC W07 120 L05 quiz prep
