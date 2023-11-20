@@ -46,3 +46,9 @@ explanation about deadlock
 
 15. [Mutex](https://www.geeksforgeeks.org/mutex-lock-for-linux-thread-synchronization/)
 Mutex and linux synchronization
+
+16. [LFS](https://www.linuxfromscratch.org)
+LFS Guidebook
+
+17. [LFS Tutorial](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=h-GG0LfZcSZALE63)
+LFS Tutorial Video

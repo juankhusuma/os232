@@ -45,3 +45,7 @@ ZCZC W07 120 L21 learning about synchronization and deadlick
 ZCZC W07 120 L06 reading and GSGS
 ZCZC W07 120 L17 assignment
 ZCZC W07 120 L05 quiz prep
+ZCZC W08 120 L21 learning about LFS
+ZCZC W08 120 L21 learning about C build and make
+ZCZC W08 240 L18 assignment
+ZCZC W08 120 L05 quiz prep
